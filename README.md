@@ -104,19 +104,18 @@ An **AI-powered classification system** was built using IBM Watsonx.ai to automa
 
 - **Output:**  
   - Predicted Scheme Label (e.g., PMGSY-I, II)  
-  - Confidence Score (e.g., 90.2% for Pipeline #10)
+  - Confidence Score (e.g., 90% for Pipeline #10)
 
 ---
 
-## 📊 Results
-The deployed model demonstrated high accuracy in classifying infrastructure projects, proving the effectiveness of using automated AI tools for rapid development and deployment. The project successfully met all requirements for the final evaluation and submission.
+## 📈 Results
 
-<img width="1920" height="1080" alt="Screenshot (543)" src="https://github.com/user-attachments/assets/de3bd361-e149-45c1-8998-46beb698756a" />
-<img width="1920" height="1080" alt="Screenshot (544)" src="https://github.com/user-attachments/assets/f144c0e1-95a1-4d54-8ea7-1a03f4606bdd" />
-<img width="1920" height="1080" alt="Screenshot (547)" src="https://github.com/user-attachments/assets/96b6d65a-90e2-4e60-91c7-38a160f736cd" />
-<img width="1920" height="1080" alt="Screenshot (562)" src="https://github.com/user-attachments/assets/9ced6554-342a-491b-bf13-5870049e2750" />
-<img width="1920" height="1080" alt="Screenshot (563)" src="https://github.com/user-attachments/assets/bab26089-2ff7-4b5e-ab9f-fae8d4e0418c" />
+### 🔹 Prediction Results with Confidence
+![Prediction Results Table View](assets/Screenshot%202025-08-03%20174314.png)
 
+> **Prediction Examples:**
+- PMGSY-II → 91%  
+- PMGSY-I → 90%  
 
 ## 📁 Repository Contents
 | File                                                                                     | Description                          |
