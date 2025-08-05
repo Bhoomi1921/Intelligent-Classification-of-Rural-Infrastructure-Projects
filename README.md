@@ -111,7 +111,7 @@ An **AI-powered classification system** was built using IBM Watsonx.ai to automa
 ## 📈 Results
 
 ### 🔹 Prediction Results with Confidence
-![Prediction Results Table View](assets/Screenshot%202025-08-03%20174314.png)
+![Prediction Results Table View](assets/Screenshot 2025-08-03 174314.png)
 
 > **Prediction Examples:**
 - PMGSY-II → 91%  
