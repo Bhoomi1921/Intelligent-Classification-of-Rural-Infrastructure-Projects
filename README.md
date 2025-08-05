@@ -127,7 +127,7 @@ An **AI-powered classification system** was built using IBM Watsonx.ai to automa
     ]
   }
 ]
-
+```
 > **Prediction Examples:**
 - PMGSY-II → 91%  
 - PMGSY-I → 90%  
