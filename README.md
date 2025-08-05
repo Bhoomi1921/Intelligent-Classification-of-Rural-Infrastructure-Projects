@@ -108,18 +108,20 @@ An **AI-powered classification system** was built using IBM Watsonx.ai to automa
 
 ---
 
-## 📈 Results
+## 📊 Results
+The deployed model demonstrated high accuracy in classifying infrastructure projects, proving the effectiveness of using automated AI tools for rapid development and deployment. The project successfully met all requirements for the final evaluation and submission.
 
-- **Accuracy Achieved:** **>90%**  
-- **Best Pipeline:** #10 – Batched Tree Ensemble (Random Forest)  
-- **Deployment:** Real-time classification with JSON input/output via REST API
+<img width="1920" height="1080" alt="Screenshot (543)" src="https://github.com/user-attachments/assets/de3bd361-e149-45c1-8998-46beb698756a" />
+<img width="1920" height="1080" alt="Screenshot (544)" src="https://github.com/user-attachments/assets/f144c0e1-95a1-4d54-8ea7-1a03f4606bdd" />
+<img width="1920" height="1080" alt="Screenshot (547)" src="https://github.com/user-attachments/assets/96b6d65a-90e2-4e60-91c7-38a160f736cd" />
+<img width="1920" height="1080" alt="Screenshot (562)" src="https://github.com/user-attachments/assets/9ced6554-342a-491b-bf13-5870049e2750" />
+<img width="1920" height="1080" alt="Screenshot (563)" src="https://github.com/user-attachments/assets/bab26089-2ff7-4b5e-ab9f-fae8d4e0418c" />
 
-> **Sample Output:**
-```json
-{
-  "fields": ["prediction", "probability"],
-  "values": [
-    ["PMGSY-II", [0, 0.01, 0.91, 0.07, 0]],
-    ["PMGSY-I", [0, 0.90, 0, 0.10, 0]]
-  ]
-}
+
+## 📁 Repository Contents
+| File                                                                                     | Description                          |
+| ---------------------------------------------------------------------------------------- | ------------------------------------ |
+| `Intelligent_Classification_PMGSY.ipynb`                                                 | Final Jupyter notebook with pipeline |
+| `Bhoomi_Gupta_4_Week_IBM_AI_and_Cloud_Internship.pdf`                                    | Project presentation                 |
+| `Intelligent_Classification_of_Rural_Infrastructure_Project_Deployment_test_result.json` | Sample JSON output                   |
+| `README.md`                                                                              | This documentation file              |
