@@ -114,9 +114,7 @@ An **AI-powered classification system** was built using IBM Watsonx.ai to automa
 
 ![Prediction Results](assets/Screenshot%202025-08-03%20174314.png)
 
-<details>
-  <summary>Click to view raw JSON output</summary>
-
+### Json Output
 ```json
 [
   {
@@ -128,6 +126,7 @@ An **AI-powered classification system** was built using IBM Watsonx.ai to automa
   }
 ]
 ```
+
 > **Prediction Examples:**
 - PMGSY-II → 91%  
 - PMGSY-I → 90%  
