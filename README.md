@@ -108,15 +108,25 @@ An **AI-powered classification system** was built using IBM Watsonx.ai to automa
 
 ---
 
+## 📈 Results
+
 ### 🔹 Prediction Results with Confidence
-![Prediction Table](assets/Screenshot-2025-08-03-174314.png)
 
-### 🔹 AutoAI Progress Map
-![AutoAI Map](assets/Screenshot-2025-08-05-190923.png)
+![Prediction Results](assets/Screenshot%202025-08-03%20174314.png)
 
-### 🔹 AutoAI Feature Pipeline
-![Pipeline Graph](assets/Screenshot-2025-08-05-190951.png)
+<details>
+  <summary>Click to view raw JSON output</summary>
 
+```json
+[
+  {
+    "fields": ["prediction", "probability"],
+    "values": [
+      ["PMGSY-II", [0, 0.0119, 0.9142, 0.0738, 0]],
+      ["PMGSY-I", [0, 0.9, 0, 0.1, 0]]
+    ]
+  }
+]
 
 > **Prediction Examples:**
 - PMGSY-II → 91%  
